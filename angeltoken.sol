@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: NOLICENSE
+//  SPDX-License-Identifier: NOLICENSE
 pragma solidity ^0.8.0;
 
 interface IERC20 {
